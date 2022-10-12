@@ -16,7 +16,7 @@ import com.irrigation.system.enums.PlotOfLandIrregationStatus;
 
 import lombok.Data;
 
-//@Data
+@Data
 @Entity
 @Table(name="plotOfLand")
 public class PlotOfLand {
@@ -29,67 +29,18 @@ public class PlotOfLand {
 	private PlotOfLandIrregationStatus status;
 	
 	@Column
-    private Double area;
+    	private Double area;
 	
 	@Column
-    private Double amountOfWaterNeeded;
+    	private Double amountOfWaterNeeded;
 	
 	@OneToMany
 	private List<TimeSlot> timeslots;
 	
 	@OneToOne
-    @JoinColumn(name = "sensorId")
+    	@JoinColumn(name = "sensorId")
 	private Sensor sensor;
 
-	public Integer getId() {
-		return id;
-	}
-
-	public void setId(Integer id) {
-		this.id = id;
-	}
-
-	public PlotOfLandIrregationStatus getStatus() {
-		return status;
-	}
-
-	public void setStatus(PlotOfLandIrregationStatus status) {
-		this.status = status;
-	}
-
-	public Double getArea() {
-		return area;
-	}
-
-	public void setArea(Double area) {
-		this.area = area;
-	}
-
-	public Double getAmountOfWaterNeeded() {
-		return amountOfWaterNeeded;
-	}
-
-	public void setAmountOfWaterNeeded(Double amountOfWaterNeeded) {
-		this.amountOfWaterNeeded = amountOfWaterNeeded;
-	}
-
-	public List<TimeSlot> getTimeslots() {
-		return timeslots;
-	}
-
-	public void setTimeslots(List<TimeSlot> timeslots) {
-		this.timeslots = timeslots;
-	}
-
-	public Sensor getSensor() {
-		return sensor;
-	}
-
-	public void setSensor(Sensor sensor) {
-		this.sensor = sensor;
-	}
 	
-	
-    
     
 }
