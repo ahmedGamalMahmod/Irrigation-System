@@ -4,7 +4,7 @@ In this project i tried to implement rest end points from my understanding to th
 I was concentrated on application structure and using new features like spring data(through CRUD rebositories) 
 also i used H2 DB in order for the person how will see this project can run on his machin without configuring A real DB. 
 
-if you want to add for simplicity you can use below request 
+if you want to test addNewPlotOfland for simplicity you can use below request 
 
 {
   "id" : 1,
