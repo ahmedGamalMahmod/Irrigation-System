@@ -25,7 +25,7 @@ and also below are screen shots from my testing
 ![addnewplot](https://user-images.githubusercontent.com/89645923/195422819-4e4a8e75-08e0-4aed-9356-289524f43a35.PNG)
 
 2- configure plot
-![Configure](https://user-images.githubusercontent.com/89645923/195422859-24187d3c-206a-49d9-8ea5-efc4072c9048.PNG)
+![Configure](https://user-images.githubusercontent.com/89645923/195606968-df21be2e-4d39-4aab-8ba6-dfb488158102.PNG)
 
 3- edit plot
 ![edit](https://user-images.githubusercontent.com/89645923/195422881-a161b449-0066-479f-9f32-d1289e64d807.PNG)
