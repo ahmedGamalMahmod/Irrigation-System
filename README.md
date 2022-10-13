@@ -22,13 +22,15 @@ if you want to test addNewPlotOfland for simplicity you can use below request
 and also below are screen shots from my testing 
 
 1- add new plot 
-![addnewplot](https://user-images.githubusercontent.com/89645923/195422819-4e4a8e75-08e0-4aed-9356-289524f43a35.PNG)
+![addnewplot](https://user-images.githubusercontent.com/89645923/195608737-9c596d90-d7d8-46f3-ab64-4ee884bb7115.PNG)
+
 
 2- configure plot
-![Configure](https://user-images.githubusercontent.com/89645923/195606968-df21be2e-4d39-4aab-8ba6-dfb488158102.PNG)
+![Configure](https://user-images.githubusercontent.com/89645923/195608797-89907915-b917-49b2-9227-0879a9b389b7.PNG)
+
 
 3- edit plot
-![edit](https://user-images.githubusercontent.com/89645923/195422881-a161b449-0066-479f-9f32-d1289e64d807.PNG)
+![edit](https://user-images.githubusercontent.com/89645923/195608851-a0a1098e-8957-4ed0-a0e5-ad1beaabab06.PNG)
 
 4- get all plot of lands
-![getall plots](https://user-images.githubusercontent.com/89645923/195422271-f5e0f22e-573b-4019-b8e3-9f422ddac5b8.PNG)
+![getall plots](https://user-images.githubusercontent.com/89645923/195608890-a863b288-de55-4657-b909-99adfd882ffa.PNG)
