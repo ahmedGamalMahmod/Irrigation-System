@@ -1,0 +1,1 @@
+INSERT INTO sensor (id, status) VALUES (1, 1);
